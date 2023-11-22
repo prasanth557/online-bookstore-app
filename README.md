@@ -9,10 +9,8 @@ The project aims to implement a small web app that lists the most rated books re
 
 ## Table of Contents
 
-- [Requirements](https://github.com/prasanth557/online-bookstore-app
-#Requirements)
-- [Technologies Used](https://github.com/prasanth557/online-bookstore-app
-#technologies-used)
+- [Requirements](https://github.com/prasanth557/online-bookstore-app#Requirements)
+- [Technologies Used](https://github.com/prasanth557/online-bookstore-app#technologies-used)
 - [Features](https://github.com/prasanth557/online-bookstore-app#features)
 - [Project Structure](https://github.com/prasanth557/online-bookstore-app#project-structure)
 - [Architecture](https://github.com/prasanth557/online-bookstore-app#architecture)
@@ -39,15 +37,15 @@ The project aims to implement a small web app that lists the most rated books re
 List Most Popular Books:
 
 1. Users can view the most Popular Books released so far.
-Results Display:
+
 
 2. Repositories are displayed in a list format, with one book details per row.
-Detailed Information:
+
 
 3. For each Boook, users can see:
-Book name
-Book Author
-Edit Book
+Book name,
+Book Author,
+Edit Book,
 Add Book Details
 
 ## Project Structure
@@ -79,24 +77,13 @@ The project structure includes the following components:
 
 3. Install dependencies:
    
-   npm install
-   npm i bootstrap
-   npm install rxjs
+   - npm install
+   - npm i bootstrap
    
 4. Start the development server:
 
    ng serve
 
-# Usage - workflow
-
-1. User credentials - username= 'prash' , password= '1234'
-  - it will redirect to home page
-2. Here you can see the list of all repositories with images
-3. you can navigate through pages or click loadmore button to load more repos.
-4. On click name of repo or GiveRating button - a modal popup will appear with data you click on repository.
-5. you can give rating out of 5
-6. now you can submit and close the modal.
-7. Logout application- redirect to login page.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
@@ -118,6 +105,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Screenshots of application
 
-![LHome page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Home 2023-11-22 153318.png)
-![Add page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Add Book 2023-11-22 153446.png)
-![Update Page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Update2023-11-22 153520.png)
+![LHome page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Home.png)
+![Add page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Add.png)
+![Update Page](https://github.com/prasanth557/online-bookstore-app/blob/main/images/Update.png)
