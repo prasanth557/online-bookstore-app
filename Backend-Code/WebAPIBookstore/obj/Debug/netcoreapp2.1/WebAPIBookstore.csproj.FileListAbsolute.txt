@@ -1,0 +1,14 @@
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\bin\Debug\netcoreapp2.1\WebAPIBookstore.deps.json
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\bin\Debug\netcoreapp2.1\WebAPIBookstore.runtimeconfig.json
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\bin\Debug\netcoreapp2.1\WebAPIBookstore.runtimeconfig.dev.json
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\bin\Debug\netcoreapp2.1\WebAPIBookstore.dll
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.csprojAssemblyReference.cache
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.csproj.CoreCompileInputs.cache
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.RazorAssemblyInfo.cache
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.RazorAssemblyInfo.cs
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.AssemblyInfoInputs.cache
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.AssemblyInfo.cs
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.RazorTargetAssemblyInfo.cache
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\bin\Debug\netcoreapp2.1\WebAPIBookstore.pdb
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.dll
+C:\Users\003KS4744\Documents\Visual Studio 2017\Projects\WebAPIBookstore\WebAPIBookstore\obj\Debug\netcoreapp2.1\WebAPIBookstore.pdb
