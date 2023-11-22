@@ -1,0 +1,20 @@
+
+
+<div class="container mt-5">
+  <h2>{{ route?.snapshot?.params?.['id'] ? 'Update Book' : 'Add New Book' }}</h2>
+  <form [formGroup]="bookForm" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="title" class="form-label">Title:</label>
+      <input type="text" id="title" class="form-control" formControlName="title" />
+    </div>
+
+    <div class="mb-3">
+      <label for="author" class="form-label">Author:</label>
+      <input type="text" id="author" class="form-control" formControlName="author" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+      {{ route?.snapshot?.params?.['id']? 'Update' : 'Submit' }}
+    </button>
+  </form>
+</div>

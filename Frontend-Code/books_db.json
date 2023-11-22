@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": "$4",
+      "description": "Trees get along very well without people, but people don't get along without trees!",
+      "year": 2012,
+      "image": "https://example.com/great-gatsby.jpg"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": "$5",
+      "description": "A story about racial injustice and moral growth in the American South during the 1930s.",
+      "year": 1960,
+      "image": "https://example.com/to-kill-a-mockingbird.jpg"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": "$6",
+      "description": "A dystopian novel set in a totalitarian society under the rule of Big Brother.",
+      "year": 1949,
+      "image": "https://example.com/1984.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": "$4.50",
+      "description": "A story about teenage angst and alienation in post-World War II America.",
+      "year": 1951,
+      "image": "https://example.com/catcher-in-the-rye.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": "$5.50",
+      "description": "A romantic novel exploring the themes of love, reputation, and class.",
+      "year": 1813,
+      "image": "https://example.com/pride-and-prejudice.jpg"
+    }
+  ]
+}
